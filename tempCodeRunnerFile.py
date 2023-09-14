@@ -1,0 +1,2 @@
+{
+    # "text.usetex": True})
